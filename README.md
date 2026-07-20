@@ -1,6 +1,7 @@
 # Hi there, I'm Yashas! 👋
 
 **Full-Stack Developer | Aspiring Forward Deployed AI Engineer | Senior SDE**
+> ⚠️ **Note:** I recently lost access to my original GitHub account. While this new profile is still growing, you can find my previous repositories, contributions, and historical work over at [@yashasbm](https://github.com/yashasbm).
 
 I am a software engineer with a strong foundation in building full-stack applications, architecting complex blockchain platforms, and leading legacy-to-cloud modernizations on AWS. Currently, I am deeply focused on creating an AI portfolio and building scalable AI products. I am passionate about open-source collaboration, skill generation, and enhancing user experiences through robust AI packages and tooling.
 
