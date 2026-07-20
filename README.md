@@ -38,8 +38,8 @@ I am actively looking for my next challenge as an **AI Engineer, Forward Deploye
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=yashasbysani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](> "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live." 
-> — **John Woods**)
+"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live." 
+— **John Woods**
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=yashasbysani&limit=5&theme=dark&combine_all_yearly_contributions=true)
