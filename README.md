@@ -1,6 +1,31 @@
-# 💫 About Me:
-I am currently working on creating an AI portfolio, AI products to scale, looking to collaborate to skills generations, open source plugin and enhance user AI experience with packages and tools.<br>I am looking for help in generating features and tools. I am currently learning deeper AI channels, RAG, pipelines for easier deployments. <br>Fun fact about me, I am an avid tea drinker, love to experiment the options and I love automobiles, I have driven 12 different categories in automobiles, love to work on my cars and build things from scratch
+# Hi there, I'm Yashas! 👋
 
+**Full-Stack Developer | Aspiring Forward Deployed AI Engineer | Senior SDE**
+
+I am a software engineer with a strong foundation in building full-stack applications, architecting complex blockchain platforms, and leading legacy-to-cloud modernizations on AWS. Currently, I am deeply focused on creating an AI portfolio and building scalable AI products. I am passionate about open-source collaboration, skill generation, and enhancing user experiences through robust AI packages and tooling.
+
+### 🚀 What I'm Up To
+* **Building:** An AI portfolio focused on scalable AI products, open-source plugins, and tools that enhance the user AI experience.
+* **Learning:** Deeper AI orchestration channels, Advanced RAG (Retrieval-Augmented Generation), and streamlined deployment pipelines for AI models.
+* **Collaborating:** Always open to teaming up on open-source AI projects, skill generation platforms, and feature development.
+* **Recently Delivered:** Led the end-to-end modernization of a legacy mainframe system to a cloud-native AWS platform and architected a first-of-its-kind internal crypto staking and blockchain reporting platform.
+
+### 🛠️ Tech Stack & AI Tools
+*(Actively expanding for AI / FDE / Senior SDE Roles)*
+
+* **AI Orchestration & LLMs:** LangChain, LlamaIndex, CrewAI, OpenAI API, Hugging Face
+* **RAG & Vector Databases:** Pinecone, Qdrant, Milvus, pgvector
+* **Backend & Cloud Deployment:** Python, TypeScript, FastAPI, AWS (Lambda, ECS, Bedrock), Docker
+* **Full-Stack & Web:** Next.js, React, UI/UX for AI applications
+* **CI/CD & AI Observability:** GitHub Actions, Terraform, LangSmith, Braintrust
+
+### 🏎️ Fun Facts & Beyond the Code
+* 🍵 **Avid Tea Drinker:** I love experimenting with different blends and brewing methods to find the perfect cup.
+* 🚗 **Automotive Enthusiast:** I have driven 12 different categories of automobiles, love building things from scratch, and enjoy working on my cars (currently enjoying the drive in my 2026 Genesis GV70 Sport Prestige).
+* 🏆 **Proud Moment:** Nominated as Associate of the Month (Dec 2025) for my contributions to tech modernization and engineering excellence.
+
+### 🤝 Let's Connect
+I am actively looking for my next challenge as an **AI Engineer, Forward Deployed Engineer (FDE), or Senior SDE**. Whether you want to collaborate on AI pipelines, discuss AWS cloud architecture, or just trade tea recommendations, let's connect!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yashasbysani) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yashasbysani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashasbm) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/yashasbysani) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/yashasbysani) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/yashasbysani) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/yashasbysani) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@yashasbysani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashasbysani@gmail.com) 
